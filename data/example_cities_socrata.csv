@@ -1,0 +1,7 @@
+Year,Country,Latitude,Longitude,city_state,pop_2010,city,state,host,311_system,data_availability,api_url,unique_column,date_column,memo
+all,US,40.697403,-74.1201063,"NEW YORK CITY, NEW YORK","8,174,988",NEW YORK,NEW YORK,Socrata,yes,yes,https://data.cityofnewyork.us/resource/erm2-nwe9.csv,unique_key,created_date,
+all,US,41.8336474,-87.87238909999998,"CHICAGO CITY, ILLINOIS","2,695,624",CHICAGO,ILLINOIS,Socrata,yes,yes,https://data.cityofchicago.org/resource/v6vf-nfxy.csv,sr_number,created_date,
+all,US,39.1438383,-77.34852049999998,"MONTGOMERY, MARYLAND","976,140",MONTGOMERY,MARYLAND,Socrata,yes,yes,https://data.montgomerycountymd.gov/resource/xtyh-brr2.csv,sr_num,created,
+all,US,37.7576948,-122.4727052,"SAN FRANCISCO CITY, CALIFORNIA","805,184",SAN FRANCISCO,CALIFORNIA,Socrata,yes,yes,https://data.sfgov.org/resource/vw6y-z8j6.csv,service_request_id,requested_datetime,
+all,US,30.3076859,-97.8938277,"AUSTIN CITY, TEXAS","802,078",AUSTIN,TEXAS,Socrata,yes,yes,https://data.austintexas.gov/resource/xwdj-i9he.csv,sr_number,sr_created_date,
+all,US,39.28468529999999,-76.6907079,"BALTIMORE CITY, MARYLAND","620,862",BALTIMORE,MARYLAND,Socrata,yes,yes,https://data.baltimorecity.gov/resource/9agw-sxsr.csv,srrecordid,createddate,
